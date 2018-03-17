@@ -9,4 +9,4 @@ Second is ANN, using the Churn Modelling.csv dataset to create an imput layer, h
 
 Third is CNN, using training set of images of cats and dogs we train the CNN to predict the test images of cat and dog. This is a classification excercise using image recognition. We use Keras deep learning package to do CNN in this case.
 
-Fourth is KPCA, using the social network dataset to split the dataset into training and testing. 
+Fourth is KPCA, using the social network dataset to split the dataset into training and testing. Using Kernel PCA, you reduce the dimensions of the dataset. Then you fit the logistic regression model to the remaining training and test sets to workout efficiency of the model. 

@@ -10,6 +10,6 @@ Positive reviews are denoted as 1
 
 We train the model to see how well it can predict positive and negative reviews in the test set. Using the confusion matrix to determine the accuracy of prediction.
 
-Second is ANN, 
+Second is ANN, using the Churn Modelling.csv dataset to create an imput layer, hidden layer and output layer. Making predictions and observing the accuracy using confusion matrix.  
 
 Third is CNN, 

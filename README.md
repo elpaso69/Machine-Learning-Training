@@ -7,4 +7,4 @@ Using the Naive Bayes Classifier we look at sentiment of restauurant reviews. Ne
 
 Second is ANN, using the Churn Modelling.csv dataset to create an imput layer, hidden layer and output layer. Making predictions and observing the accuracy using confusion matrix.  
 
-Third is CNN, using training set of images of cats and dogs we train the CNN to predict the test images of cat and dog. This is a classifciation excercise using image recognition. 
+Third is CNN, using training set of images of cats and dogs we train the CNN to predict the test images of cat and dog. This is a classification excercise using image recognition. 

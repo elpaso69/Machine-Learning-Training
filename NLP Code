@@ -3,7 +3,6 @@
 #.csv is comma sperated value 
 # we want tsv as there are already comma's in food reviews 
 
-
 #import libraries 
 import numpy as np 
 import matplotlib.pyplot as plt 
@@ -60,7 +59,7 @@ cv = CountVectorizer(max_features = 1500)
 X = cv.fit_transform(corpus).toarray()
 y = dataset.iloc[:, 1].values 
 
-' Now time for Machine Learning classfication'
+# Now time for Machine Learning classfication
 # Splitting the dataset into the Training set and Test set
 from sklearn.cross_validation import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20, random_state = 0)
